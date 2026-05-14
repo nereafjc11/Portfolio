@@ -1,0 +1,237 @@
+{
+    "professional": [
+        {
+            "title": "Castro Espiñeiro",
+            "image": "img/castro-espineiro.png",
+            "description": "Desarrollo y maquetación de una web corporativa para empresa del sector construcción, enfocada en transmitir profesionalidad, servicios y proyectos realizados.",
+            "link": "https://castroespiñeiro.com/",
+            "tags": [
+                "WordPress",
+                "Corporativa",
+                "SCSS",
+                "Responsive"
+            ]
+        },
+        {
+            "title": "Auteco Seguridad",
+            "image": "img/auteco-seguridad.png",
+            "description": "Diseño y desarrollo de una página corporativa para empresa de sistemas de seguridad y control, priorizando claridad visual y estructura de servicios.",
+            "link": "https://autecoseguridad.com/",
+            "tags": [
+                "SCSS",
+                "Responsive",
+                "WordPress",
+                "Corporativa"
+            ]
+        },
+        {
+            "title": "Sucesiones Galicia",
+            "image": "img/sucesiones-galicia.png",
+            "description": "Web corporativa para asesoría especializada en herencias y sucesiones, optimizada para facilitar el contacto y la presentación clara de servicios legales.",
+            "link": "https://sucesionesgalicia.net/",
+            "tags": [
+                "HTML",
+                "SCSS",
+                "Responsive",
+                "WordPress",
+                "Formularios"
+            ]
+        },
+        {
+            "title": "Ferreteria Yañez",
+            "image": "img/ferreteria-yanez.png",
+            "description": "Web corporativa para asesoría especializada en herencias y sucesiones, optimizada para facilitar el contacto y la presentación clara de servicios legales.",
+            "link": "https://ferreteriayañez.com",
+            "tags": [
+                "SCSS",
+                "Responsive",
+                "Ecommerce",
+                "WooCommerce",
+                "Catálogo online",
+                "Productos",
+                "WordPress"
+            ]
+        },
+        {
+            "title": "Sumigal",
+            "image": "img/sumigal.png",
+            "description": "Web corporativa para empresa de suministros industriales, enfocada en mostrar catálogo y áreas de servicio de forma clara y moderna.",
+            "link": "https://sumigal.net/",
+            "tags": [
+                "WordPress",
+                "SCSS",
+                "Catálogo",
+                "Responsive"
+            ]
+        },
+        {
+            "title": "C Sarandeses",
+            "image": "img/csarandeses.png",
+            "description": "Desarrollo frontend de sitio corporativo para empresa del sector construcción e ingeniería. Se diseñaron y maquetaron múltiples plantillas de proyectos con diferentes estructuras visuales para permitir la publicación de contenido variado manteniendo una identidad coherente y moderna.",
+            "link": "https://csarandeses.es/",
+            "tags": [
+                "Plantillas dinámicas",
+                "SCSS",
+                "Responsive",
+                "WordPress"
+            ]
+        },
+        {
+            "title": "Maderas Gestal",
+            "image": "img/maderas-gestal.png",
+            "description": "Web corporativa para empresa del sector maderero, diseñada para mostrar productos, servicios y proyectos de manera visual y accesible.",
+            "link": "https://maderasgestal.net/",
+            "tags": [
+                "HTML",
+                "SCSS",
+                "Responsive",
+                "WordPress",
+                "Corporativa",
+                "Catálogo"
+            ]
+        },
+        {
+            "title": "Clickfer Sic",
+            "image": "img/clickfersic.png",
+            "description": "Desarrollo de plataforma digital orientada a servicios online, priorizando experiencia de usuario y estructura moderna.",
+            "link": "https://clickfersic.com/",
+            "tags": [
+                "SCSS",
+                "Responsive",
+                "Plataforma digital",
+                "WooCommerce",
+                "Ecommerce",
+                "WordPress"
+            ]
+        },
+        {
+            "title": "Mainar",
+            "image": "img/mainar.png",
+            "description": "Página corporativa para empresa industrial, desarrollada con un enfoque visual moderno y adaptable a todos los dispositivos.",
+            "link": "https://mainar.com.es/",
+            "tags": [
+                "WordPress",
+                "SCSS",
+                "Corporativa",
+                "Responsive"
+            ]
+        },
+        {
+            "title": "Sd Consultores",
+            "image": "img/sdconsultores.png",
+            "description": "Desarrollo de web corporativa para consultoría empresarial, optimizada para transmitir confianza y facilitar la captación de clientes.",
+            "link": "https://sdconsultores.net/",
+            "tags": [
+                "HTML",
+                "SCSS",
+                "Responsive",
+                "WordPress",
+                "Corporativa"
+            ]
+        },
+        {
+            "title": "Taxi Miki Muxia",
+            "image": "img/taxi-miki.png",
+            "description": "Web de servicios de transporte y reservas online, optimizada para dispositivos móviles y contacto rápido con clientes.",
+            "link": "https://taximuxiamiki.com/",
+            "tags": [
+                "SCSS",
+                "Responsive",
+                "Reservas Online",
+                "WordPress"
+            ]
+        },
+        {
+            "title": "Serfrisa",
+            "image": "img/serfrisa.png",
+            "description": "Página corporativa para empresa especializada en refrigeración industrial y servicios técnicos.",
+            "link": "https://serfrisa.es/",
+            "tags": [
+                "WordPress",
+                "SCSS",
+                "Corporativa",
+                "Responsive"
+            ]
+        },
+        {
+            "title": "Imcor",
+            "image": "img/imcor.png",
+            "description": "Desarrollo de sitio web corporativo para empresa industrial, centrado en una presentación visual moderna y profesional.",
+            "link": "https://imcor.es/",
+            "tags": [
+                "HTML",
+                "SCSS",
+                "Responsive",
+                "WordPress",
+                "Corporativa"
+            ]
+        },
+        {
+            "title": "Argamatic",
+            "image": "img/argamatic.png",
+            "description": "Web corporativa para empresa de automatización industrial y soluciones técnicas, diseñada con una interfaz clara y moderna.",
+            "link": "https://argamatic.es",
+            "tags": [
+                "HTML",
+                "SCSS",
+                "Responsive",
+                "WordPress",
+                "Corporativa"
+            ]
+        }
+    ],
+    "personal": [
+        {
+            "title": "Web para aprender coreano",
+            "image": "img/korean-learning-web.png",
+            "description": "Desarrollo de una web interactiva para aprender vocabulario coreano mediante juegos y actividades dinámicas. Incluye modos de emparejar palabras, flashcards y pruebas tipo test. Proyecto personal actualmente en desarrollo.",
+            "link": "https://nereafjc11.github.io/AprendeCoreano/",
+            "tags": [
+                "JavaScript",
+                "Gamificación",
+                "Educación",
+                "Coreano",
+                "Web interactiva"
+            ]
+        },
+        {
+            "title": "Diseño de posts para Instagram",
+            "image": "img/bts-community-design.png",
+            "description": "Diseño de posts y carruseles para Instagram, creando contenido visual adaptado a redes sociales y manteniendo una identidad visual consistente.",
+            "link": "https://www.instagram.com/p/DTFt5g7jb4P/?igsh=NnNjYXEwNDRma245",
+            "tags": [
+                "Canva",
+                "UI Visual",
+                "Instagram",
+                "Carruseles",
+                "RRSS"
+            ]
+        },
+        {
+            "title": "Web corporativa para carpintería",
+            "image": "img/carpinteria-freije.png",
+            "description": "Diseño y desarrollo de identidad visual y página web corporativa para una carpintería. Proyecto actualmente en proceso, incluyendo diseño del logo, estructura visual y experiencia de usuario.",
+            "link": "",
+            "tags": [
+                "Diseño web",
+                "Branding",
+                "Logo",
+                "UI/UX",
+                "Proyecto en desarrollo"
+            ]
+        },
+        {
+            "title": "AMORE · Organizador de bodas",
+            "image": "img/amore-project.png",
+            "description": "Aplicación web desarrollada como Trabajo de Fin de Grado enfocada en la organización de bodas. Incluye gestión de invitados, listas de tareas, control de gastos, galería de imágenes, autenticación de usuarios y generación de PDFs.",
+            "link": "",
+            "tags": [
+                "Spring Boot",
+                "MySQL",
+                "JavaScript",
+                "CRUD",
+                "Aplicación web"
+            ]
+        }
+    ]
+}
