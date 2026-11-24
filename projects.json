@@ -185,7 +185,7 @@
             "title": "Web para aprender coreano",
             "image": "img/korean-learning-web.png",
             "description": "Desarrollo de una web interactiva para aprender vocabulario coreano mediante juegos y actividades dinámicas. Incluye modos de emparejar palabras, flashcards y pruebas tipo test. Proyecto personal actualmente en desarrollo.",
-            "link": "https://nereafjc11.github.io/AprendeCoreano/",
+            "link": "https://aprendecoreano.vercel.app",
             "tags": [
                 "JavaScript",
                 "Gamificación",
